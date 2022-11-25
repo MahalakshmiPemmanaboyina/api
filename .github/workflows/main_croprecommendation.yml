@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CropRecommendation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F23B29C139B94DCE81EBAD68026E007A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B548C0BFDF194A2EB440CF0E2B3386BD }}
